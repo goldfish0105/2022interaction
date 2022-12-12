@@ -429,7 +429,7 @@ void mousePressed() {
   if (stage == 1)stage = 2;
 }
 ```
-##美化介面 新增按空白鍵開始
+## 美化介面 新增按空白鍵開始
 ```java
 import processing.sound.*;
 SoundFile BGM, biu, win;
